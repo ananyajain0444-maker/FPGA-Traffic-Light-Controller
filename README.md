@@ -59,7 +59,7 @@ FPGA-Traffic-Light-Controller/
 ├── LICENSE
 ├── README.md
 ├── generate_images.py
-
+---text
 
 ---
 
