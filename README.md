@@ -122,12 +122,16 @@ py generate_images.py
 
 ---
 
+
 ## Run simulation
 iverilog rtl/traffic_light.v tb/traffic_light_tb.v
 vvp a.out
 gtkwave traffic.vcd
 
 --
+
+
+
 
 📌 Applications
 Smart traffic systems
