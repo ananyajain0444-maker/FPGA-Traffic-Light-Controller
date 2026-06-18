@@ -123,7 +123,6 @@ py generate_images.py
 
 ## Run simulation
 
-```bash
 iverilog rtl/traffic_light.v tb/traffic_light_tb.v
 vvp a.out
 gtkwave traffic.vcd
