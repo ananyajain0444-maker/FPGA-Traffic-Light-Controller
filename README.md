@@ -122,38 +122,35 @@ py generate_images.py
 
 ---
 
-
 ## Run simulation
+
+```bash
 iverilog rtl/traffic_light.v tb/traffic_light_tb.v
 vvp a.out
 gtkwave traffic.vcd
 
---
-
-
-
+---
 
 📌 Applications
-Smart traffic systems
-Embedded systems
-FPGA-based digital design
-Academic and lab projects
-
---
-
-📄 License
-
-This project is licensed under the MIT License.
---
-
-⭐ Future Improvements
-Emergency vehicle priority system
-Multi-lane traffic expansion
-Adaptive smart traffic control
-FPGA hardware implementation
+- Smart traffic systems  
+- Embedded systems  
+- FPGA-based digital design  
+- Academic and lab projects  
 
 ---
 
-👨‍💻 Author
+📄 License  
+This project is licensed under the MIT License.
 
+---
+
+⭐ Future Improvements
+- Emergency vehicle priority system  
+- Multi-lane traffic expansion  
+- Adaptive smart traffic control  
+- FPGA hardware implementation  
+
+---
+
+👨‍💻 Author  
 Ananya Jain
