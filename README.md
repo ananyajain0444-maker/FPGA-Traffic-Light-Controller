@@ -117,7 +117,6 @@ Conceptual FPGA board output.
 ## 🚀 How to Run
 
 ### Generate images
-```bash
 py generate_images.py
 
 ---
