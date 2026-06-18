@@ -1,0 +1,6 @@
+# Simulation files
+
+*.vcd
+traffic_sim
+*.out
+*.log
