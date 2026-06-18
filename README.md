@@ -35,6 +35,7 @@ This project implements a Traffic Light Control System using FPGA design princip
 
 ## 📁 Project Structure
 
+```text
 FPGA-Traffic-Light-Controller/
 │
 ├── images/
@@ -58,6 +59,7 @@ FPGA-Traffic-Light-Controller/
 ├── LICENSE
 ├── README.md
 ├── generate_images.py
+---
 
 ---
 
